@@ -3,7 +3,7 @@ from module import clear
 clear()
 
 listItem = []
-for item in range(2000, 3200):
+for item in range(2000, 3200+1):
     if (item % 7 == 0) and (item % 5 != 0):
         listItem.append(str(item))
 

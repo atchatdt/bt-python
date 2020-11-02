@@ -11,8 +11,7 @@ def createTupleList(myStr):
     result = myStr.split(',')
     myTuple = tuple(result)
 
-    print('List: {0}'.format(result))
-    print('Tuple: {0}'.format(myTuple))
+    print('List: {0}\nTuple: {1}'.format(result, myTuple))
 
 
 myStr = input('Input: ')

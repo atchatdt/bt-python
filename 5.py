@@ -1,14 +1,14 @@
-'''
-Định nghĩa một class có ít nhất 2 method:
 
-getString: để nhận một chuỗi do người dùng nhập vào từ giao diện điều khiển.
+# Định nghĩa một class có ít nhất 2 method:
 
-printString: in chuỗi vừa nhập sang chữ hoa.
+# getString: để nhận một chuỗi do người dùng nhập vào từ giao diện điều khiển.
 
-Thêm vào các hàm hiểm tra đơn giản để kiểm tra method của class.
+# printString: in chuỗi vừa nhập sang chữ hoa.
 
-Ví dụ: Chuỗi nhập vào là quantrimang.com thì đầu ra phải là: QUANTRIMANG.COM
-'''
+# Thêm vào các hàm hiểm tra đơn giản để kiểm tra method của class.
+
+# Ví dụ: Chuỗi nhập vào là quantrimang.com thì đầu ra phải là: QUANTRIMANG.COM
+
 from module import clear
 clear()
 
